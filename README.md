@@ -1,2 +1,2 @@
 # UISCSC570R
-Datascience Project
+Datascience Academic Coursework
